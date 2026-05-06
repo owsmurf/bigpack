@@ -18,3 +18,5 @@ python run.py
 
 unit-tests
 python -m unittest tests.test_calculation -v
+
+В PGAdmin не было кнопки PDF сделать, только PNG получилось
